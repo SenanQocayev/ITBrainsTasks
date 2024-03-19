@@ -12,7 +12,7 @@ namespace Task_33
         internal class Program
         {
 
-            static void Main(string[] args)
+            static void Main(string[] args)   
             {
                 while (true)
                 {
@@ -24,7 +24,7 @@ namespace Task_33
                         case 1:
                             Student.Add();
                             break;
-
+                            
 
                         case 2:
                             Student.show();
